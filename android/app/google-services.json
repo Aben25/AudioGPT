@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655978775077",
+    "project_id": "testing-8b1e4",
+    "storage_bucket": "testing-8b1e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655978775077:android:d2cb87052afee323e4f5cc",
+        "android_client_info": {
+          "package_name": "com.mycompany.audiogpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeij3Lw-MNu3t3rGrisOZfASvhe2BKRcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

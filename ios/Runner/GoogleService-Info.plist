@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAQBP1oTf-lhusJaxteuHsdMbPPpVsU1jk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>655978775077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.audiogpt</string>
+	<key>PROJECT_ID</key>
+	<string>testing-8b1e4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buckets/testing-8b1e4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:655978775077:ios:0e3ddcbbd5387a8de4f5cc</string>
+</dict>
+</plist>
